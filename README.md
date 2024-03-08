@@ -37,4 +37,6 @@ python main_test.py
 
 ### NOTE: This will create a pynetTest.py file which is loaded into PyMOL in order to create the PSN visualization.
 
-## 7) Start PyMOL. PyMOL can be started and stopped using the GUI. After starting PyMOL use the ```fetch``` command 
+## 7) Start PyMOL. PyMOL can be started and stopped using the GUI. After starting PyMOL use the ```fetch``` command to retrieve the protein structure file from the PDB DB. In this case, "Start PyMOL" and after the application executes, type the command ```fetch 1yok```:
+
+<img src="./data/startPyMOL.png" alt="Start PyMOL">
