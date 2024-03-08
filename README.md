@@ -27,4 +27,4 @@ python main_test.py
 
 ## 5) After the API has finished running, the next step is to perform the network analysis. Do this by selecting "Start Analysis" and select the .cif_ringEdges file:
 
-<img src="./data/startAnalysis.png" alt="Start Analysis"
+<img src="./data/startAnalysis.png" alt="Start Analysis">
