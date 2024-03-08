@@ -44,3 +44,7 @@ python main_test.py
 ## 8) Load the PSN visualization by navigating the PyMOL GUI drop down: >File>Run Script>. Find the "pynetTest.py" file and select "Open":
 
 <img src="./data/startVizPSN.png" alt="Start VizPSN">
+
+## 9) Finally, a very professional visualization of the network properties of the PSN are shown embedded in the molecular srtucture cartoon:
+
+<img src="./data/PyMOL.png" alt="PyMOL">
