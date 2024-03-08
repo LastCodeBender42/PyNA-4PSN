@@ -26,9 +26,9 @@ python main_test.py
 ### NOTE: Once the API is started, it connects with the RING server and submits the .cif file and after a few moments the protein strutcure network is retrieved. It will be a file with a .cif_ringEdges ending.
 
 ## 5) After the API has finished running, perform the network analysis. From the GUI, select "Start Analysis" and select the .cif_ringEdges file:
-<br><\br>
+<br>
 <img src="./data/startAnalysis.png" alt="Start Analysis">
-<br><\br>
+<br>
 ### NOTE: This analysis automatically performs four analyses of network centrality: Betweenness, Closeness, Degree, and Eigenvector. It also performs one analysis of edge betweenness centrality. This measure is used to automatically resize the edges of the network. The edges are drawn between the Calpha atoms of the protein structure. The node centrality recolors residues based on the normalized centrality values selected by the user.
 
 ## 6) Create the PSN visualization. From the GUI select, "Start Visualization" and for the purposes of demonstrating the tool select "eigenvector_centrality.csv":
