@@ -19,6 +19,12 @@ pip install -r requirements.txt
 python main_test.py
 ```
 
-## 4) The following Gui will appear select "Start API" and navigate to the .cif file of interest and select "Open". In this example, select 1yok.cif:
+## 4) The following Gui will appear select "Start API" and navigate to the .cif file of interest and select "Open". In this example, we select 1yok.cif:
 
 <img src="./data/startAPI.png" alt="Start API">
+
+### Once the API is started, it connects with the RING server and submits the .cif file and after a few moments the protein strutcure network is retrieved. It will be a file with a .cif_ringEdges ending.
+
+## 5) After the API has finished running, the next step is to perform the network analysis. Do this by selecting "Start Analysis" and select the .cif_ringEdges file:
+
+<img src="./data/startAnalysis.png" alt="Start Analysis">
