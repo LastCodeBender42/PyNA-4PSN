@@ -34,3 +34,5 @@ python main_test.py
 ## 6) Create the PSN visualization. From the GUI select, "Start Visualization" and for the purposes of demonstrating the tool select "eigenvector_centrality.csv":
 
 <img src="./data/startViz.png" alt="Start Vizualization">
+
+### NOTE: This will create a ***pynetTest.py*** file which is loaded into PyMOL in order to create the PSN visualization.
