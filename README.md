@@ -20,3 +20,5 @@ python main_test.py
 ```
 
 ## 4) The following Gui will appear select "Start API" and navigate to the .cif file of interest and select "Open". In this example, select 1yok.cif:
+
+<img src="./data/startAPI.png" alt="Start API">
