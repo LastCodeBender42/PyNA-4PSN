@@ -35,4 +35,6 @@ python main_test.py
 
 <img src="./data/startViz.png" alt="Start Vizualization">
 
-### NOTE: This will create a **pynetTest.py** file which is loaded into PyMOL in order to create the PSN visualization.
+### NOTE: This will create a pynetTest.py file which is loaded into PyMOL in order to create the PSN visualization.
+
+## 7) Start PyMOL. PyMOL can be started and stopped using the GUI. After starting PyMOL use the ```fetch``` command 
