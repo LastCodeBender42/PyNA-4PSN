@@ -35,4 +35,4 @@ python main_test.py
 
 <img src="./data/startViz.png" alt="Start Vizualization">
 
-### NOTE: This will create a ***pynetTest.py*** file which is loaded into PyMOL in order to create the PSN visualization.
+### NOTE: This will create a **pynetTest.py** file which is loaded into PyMOL in order to create the PSN visualization.
